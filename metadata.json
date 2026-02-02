@@ -1,0 +1,8 @@
+{
+  "name": "HopeKitchen",
+  "description": "A centralized digital ecosystem connecting restaurants, non-profits, and field workers to fight food waste and hunger with real-time logistics and AI-driven impact tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
